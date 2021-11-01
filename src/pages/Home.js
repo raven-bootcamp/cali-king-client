@@ -15,6 +15,7 @@ function Home() {
         <Grid columns={3}>
             <Grid.Row className="page-title">
                 <h1>Cali King</h1>
+                <h3>We're working out!</h3>
             </Grid.Row>                
             <Grid.Row>
                 {user && (
